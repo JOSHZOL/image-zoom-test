@@ -1,0 +1,18 @@
+html {
+    min-height: 100%;
+}
+
+.product-image {
+    width: 50%;
+    padding-bottom: 50%;
+    margin: 1em;
+    
+    background-size: 100%;
+    background-repeat: no-repeat;
+    cursor: zoom-in;
+}
+
+.zoom {
+    cursor: zoom-out;
+    background-size: 200%;
+}
